@@ -1,0 +1,12 @@
+C:\Users\Thoosje\source\repos\CurrencyConverterApp\CurrencyConverterApp\bin\Debug\CurrencyConverterApp.exe
+C:\Users\Thoosje\source\repos\CurrencyConverterApp\CurrencyConverterApp\bin\Debug\CurrencyConverterApp.pdb
+C:\Users\Thoosje\source\repos\CurrencyConverterApp\CurrencyConverterApp\obj\Debug\CurrencyConverterApp.csprojAssemblyReference.cache
+C:\Users\Thoosje\source\repos\CurrencyConverterApp\CurrencyConverterApp\obj\Debug\CurrencyConverterApp.csproj.CoreCompileInputs.cache
+C:\Users\Thoosje\source\repos\CurrencyConverterApp\CurrencyConverterApp\obj\Debug\CurrencyConverterApp.exe
+C:\Users\Thoosje\source\repos\CurrencyConverterApp\CurrencyConverterApp\obj\Debug\CurrencyConverterApp.pdb
+D:\program\CurrencyConverterApp\CurrencyConverterApp\obj\Debug\CurrencyConverterApp.csprojAssemblyReference.cache
+D:\program\CurrencyConverterApp\CurrencyConverterApp\obj\Debug\CurrencyConverterApp.csproj.CoreCompileInputs.cache
+D:\program\CurrencyConverterApp\CurrencyConverterApp\obj\Debug\CurrencyConverterApp.exe
+D:\program\CurrencyConverterApp\CurrencyConverterApp\obj\Debug\CurrencyConverterApp.pdb
+D:\program\CurrencyConverterApp\CurrencyConverterApp\bin\Debug\CurrencyConverterApp.exe
+D:\program\CurrencyConverterApp\CurrencyConverterApp\bin\Debug\CurrencyConverterApp.pdb
